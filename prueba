@@ -1,0 +1,927 @@
+[
+    {
+        "author": "jaywcjlove",
+        "name": "awesome-mac",
+        "avatar": "https://github.com/jaywcjlove.png",
+        "sponsor": null,
+        "url": "https://github.com/jaywcjlove/awesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 68117,
+        "fork": 6141,
+        "currentPeriodStars": 75,
+        "builtBy": [
+            {
+                "href": "https://github.com/jaywcjlove",
+                "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
+                "username": "jaywcjlove"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/alichtman",
+                "avatar": "https://avatars.githubusercontent.com/u/20600565?s=40&v=4",
+                "username": "alichtman"
+            },
+            {
+                "href": "https://github.com/xcv58",
+                "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&v=4",
+                "username": "xcv58"
+            },
+            {
+                "href": "https://github.com/heldev",
+                "avatar": "https://avatars.githubusercontent.com/u/16080436?s=40&v=4",
+                "username": "heldev"
+            }
+        ]
+    },
+    {
+        "author": "iamadamdev",
+        "name": "bypass-paywalls-chrome",
+        "avatar": "https://github.com/iamadamdev.png",
+        "sponsor": null,
+        "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+        "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 44814,
+        "fork": 3277,
+        "currentPeriodStars": 45,
+        "builtBy": [
+            {
+                "href": "https://github.com/iamadamdev",
+                "avatar": "https://avatars.githubusercontent.com/u/36013816?s=40&v=4",
+                "username": "iamadamdev"
+            },
+            {
+                "href": "https://github.com/iscreamcoke",
+                "avatar": "https://avatars.githubusercontent.com/u/17458353?s=40&v=4",
+                "username": "iscreamcoke"
+            },
+            {
+                "href": "https://github.com/kimkha",
+                "avatar": "https://avatars.githubusercontent.com/u/1332605?s=40&v=4",
+                "username": "kimkha"
+            },
+            {
+                "href": "https://github.com/filbo",
+                "avatar": "https://avatars.githubusercontent.com/u/3022180?s=40&v=4",
+                "username": "filbo"
+            }
+        ]
+    },
+    {
+        "author": "cypress-io",
+        "name": "cypress",
+        "avatar": "https://github.com/cypress-io.png",
+        "sponsor": null,
+        "url": "https://github.com/cypress-io/cypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 45639,
+        "fork": 3128,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/brian-mann",
+                "avatar": "https://avatars.githubusercontent.com/u/1268976?s=40&v=4",
+                "username": "brian-mann"
+            },
+            {
+                "href": "https://github.com/chrisbreiding",
+                "avatar": "https://avatars.githubusercontent.com/u/1157043?s=40&v=4",
+                "username": "chrisbreiding"
+            },
+            {
+                "href": "https://github.com/flotwig",
+                "avatar": "https://avatars.githubusercontent.com/u/1151760?s=40&v=4",
+                "username": "flotwig"
+            },
+            {
+                "href": "https://github.com/jennifer-shehane",
+                "avatar": "https://avatars.githubusercontent.com/u/1271364?s=40&v=4",
+                "username": "jennifer-shehane"
+            },
+            {
+                "href": "https://github.com/bahmutov",
+                "avatar": "https://avatars.githubusercontent.com/u/2212006?s=40&v=4",
+                "username": "bahmutov"
+            }
+        ]
+    },
+    {
+        "author": "JC144",
+        "name": "EDF_Simulateur_Prix",
+        "avatar": "https://github.com/JC144.png",
+        "sponsor": null,
+        "url": "https://github.com/JC144/EDF_Simulateur_Prix",
+        "description": "Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 41,
+        "fork": 8,
+        "currentPeriodStars": 13,
+        "builtBy": [
+            {
+                "href": "https://github.com/JC144",
+                "avatar": "https://avatars.githubusercontent.com/u/1168432?s=40&v=4",
+                "username": "JC144"
+            },
+            {
+                "href": "https://github.com/zdimension",
+                "avatar": "https://avatars.githubusercontent.com/u/4533568?s=40&v=4",
+                "username": "zdimension"
+            },
+            {
+                "href": "https://github.com/BenoitGoimier",
+                "avatar": "https://avatars.githubusercontent.com/u/7400715?s=40&v=4",
+                "username": "BenoitGoimier"
+            },
+            {
+                "href": "https://github.com/jo-sarrazin",
+                "avatar": "https://avatars.githubusercontent.com/u/6603339?s=40&v=4",
+                "username": "jo-sarrazin"
+            },
+            {
+                "href": "https://github.com/nviallatte",
+                "avatar": "https://avatars.githubusercontent.com/u/34539095?s=40&v=4",
+                "username": "nviallatte"
+            }
+        ]
+    },
+    {
+        "author": "nodejs",
+        "name": "undici",
+        "avatar": "https://github.com/nodejs.png",
+        "sponsor": null,
+        "url": "https://github.com/nodejs/undici",
+        "description": "An HTTP/1.1 client, written from scratch for Node.js",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 5424,
+        "fork": 452,
+        "currentPeriodStars": 29,
+        "builtBy": [
+            {
+                "href": "https://github.com/ronag",
+                "avatar": "https://avatars.githubusercontent.com/u/3065230?s=40&v=4",
+                "username": "ronag"
+            },
+            {
+                "href": "https://github.com/KhafraDev",
+                "avatar": "https://avatars.githubusercontent.com/u/42794878?s=40&v=4",
+                "username": "KhafraDev"
+            },
+            {
+                "href": "https://github.com/mcollina",
+                "avatar": "https://avatars.githubusercontent.com/u/52195?s=40&v=4",
+                "username": "mcollina"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/tsctx",
+                "avatar": "https://avatars.githubusercontent.com/u/91457664?s=40&v=4",
+                "username": "tsctx"
+            }
+        ]
+    },
+    {
+        "author": "microsoft",
+        "name": "Web-Dev-For-Beginners",
+        "avatar": "https://github.com/microsoft.png",
+        "sponsor": null,
+        "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 79281,
+        "fork": 12200,
+        "currentPeriodStars": 72,
+        "builtBy": [
+            {
+                "href": "https://github.com/jlooper",
+                "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+                "username": "jlooper"
+            },
+            {
+                "href": "https://github.com/ManuSquall",
+                "avatar": "https://avatars.githubusercontent.com/u/29026887?s=40&v=4",
+                "username": "ManuSquall"
+            },
+            {
+                "href": "https://github.com/San1ay",
+                "avatar": "https://avatars.githubusercontent.com/u/54913971?s=40&v=4",
+                "username": "San1ay"
+            },
+            {
+                "href": "https://github.com/saragibby",
+                "avatar": "https://avatars.githubusercontent.com/u/82035?s=40&v=4",
+                "username": "saragibby"
+            },
+            {
+                "href": "https://github.com/silverskyvicto",
+                "avatar": "https://avatars.githubusercontent.com/u/3609003?s=40&v=4",
+                "username": "silverskyvicto"
+            }
+        ]
+    },
+    {
+        "author": "facebook",
+        "name": "react",
+        "avatar": "https://github.com/facebook.png",
+        "sponsor": null,
+        "url": "https://github.com/facebook/react",
+        "description": "The library for web and native user interfaces.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 217563,
+        "fork": 45851,
+        "currentPeriodStars": 51,
+        "builtBy": [
+            {
+                "href": "https://github.com/zpao",
+                "avatar": "https://avatars.githubusercontent.com/u/8445?s=40&v=4",
+                "username": "zpao"
+            },
+            {
+                "href": "https://github.com/gaearon",
+                "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&v=4",
+                "username": "gaearon"
+            },
+            {
+                "href": "https://github.com/acdlite",
+                "avatar": "https://avatars.githubusercontent.com/u/3624098?s=40&v=4",
+                "username": "acdlite"
+            },
+            {
+                "href": "https://github.com/sophiebits",
+                "avatar": "https://avatars.githubusercontent.com/u/6820?s=40&v=4",
+                "username": "sophiebits"
+            },
+            {
+                "href": "https://github.com/sebmarkbage",
+                "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
+                "username": "sebmarkbage"
+            }
+        ]
+    },
+    {
+        "author": "MrXujiang",
+        "name": "h5-Dooring",
+        "avatar": "https://github.com/MrXujiang.png",
+        "sponsor": null,
+        "url": "https://github.com/MrXujiang/h5-Dooring",
+        "description": "H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 8218,
+        "fork": 1570,
+        "currentPeriodStars": 18,
+        "builtBy": [
+            {
+                "href": "https://github.com/AleryXu",
+                "avatar": "https://avatars.githubusercontent.com/u/22771686?s=40&v=4",
+                "username": "AleryXu"
+            },
+            {
+                "href": "https://github.com/MrXujiang",
+                "avatar": "https://avatars.githubusercontent.com/u/28833634?s=40&v=4",
+                "username": "MrXujiang"
+            },
+            {
+                "href": "https://github.com/yehuozhili",
+                "avatar": "https://avatars.githubusercontent.com/u/34372936?s=40&v=4",
+                "username": "yehuozhili"
+            },
+            {
+                "href": "https://github.com/mokinzhao",
+                "avatar": "https://avatars.githubusercontent.com/u/24836751?s=40&v=4",
+                "username": "mokinzhao"
+            },
+            {
+                "href": "https://github.com/RalapChen",
+                "avatar": "https://avatars.githubusercontent.com/u/23256312?s=40&v=4",
+                "username": "RalapChen"
+            }
+        ]
+    },
+    {
+        "author": "diegomura",
+        "name": "react-pdf",
+        "avatar": "https://github.com/diegomura.png",
+        "sponsor": null,
+        "url": "https://github.com/diegomura/react-pdf",
+        "description": "📄 Create PDF files using React",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 13701,
+        "fork": 1116,
+        "currentPeriodStars": 16,
+        "builtBy": [
+            {
+                "href": "https://github.com/diegomura",
+                "avatar": "https://avatars.githubusercontent.com/u/5600341?s=40&v=4",
+                "username": "diegomura"
+            },
+            {
+                "href": "https://github.com/jeetiss",
+                "avatar": "https://avatars.githubusercontent.com/u/6726016?s=40&v=4",
+                "username": "jeetiss"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/jbovenschen",
+                "avatar": "https://avatars.githubusercontent.com/u/4903014?s=40&v=4",
+                "username": "jbovenschen"
+            },
+            {
+                "href": "https://github.com/wojtekmaj",
+                "avatar": "https://avatars.githubusercontent.com/u/5426427?s=40&v=4",
+                "username": "wojtekmaj"
+            }
+        ]
+    },
+    {
+        "author": "31b4",
+        "name": "Leetcode-Premium-Bypass",
+        "avatar": "https://github.com/31b4.png",
+        "sponsor": "https://github.com/sponsors/31b4",
+        "url": "https://github.com/31b4/Leetcode-Premium-Bypass",
+        "description": "Leetcode Premium Unlocker 2024",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 1111,
+        "fork": 46,
+        "currentPeriodStars": 137,
+        "builtBy": [
+            {
+                "href": "https://github.com/31b4",
+                "avatar": "https://avatars.githubusercontent.com/u/75566095?s=40&v=4",
+                "username": "31b4"
+            },
+            {
+                "href": "https://github.com/Gourav-21",
+                "avatar": "https://avatars.githubusercontent.com/u/107918791?s=40&v=4",
+                "username": "Gourav-21"
+            },
+            {
+                "href": "https://github.com/Nvirs",
+                "avatar": "https://avatars.githubusercontent.com/u/115690291?s=40&v=4",
+                "username": "Nvirs"
+            },
+            {
+                "href": "https://github.com/paltedor",
+                "avatar": "https://avatars.githubusercontent.com/u/150860552?s=40&v=4",
+                "username": "paltedor"
+            }
+        ]
+    },
+    {
+        "author": "OpenZeppelin",
+        "name": "openzeppelin-contracts",
+        "avatar": "https://github.com/OpenZeppelin.png",
+        "sponsor": null,
+        "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 23511,
+        "fork": 11796,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/frangio",
+                "avatar": "https://avatars.githubusercontent.com/u/481465?s=40&v=4",
+                "username": "frangio"
+            },
+            {
+                "href": "https://github.com/Amxx",
+                "avatar": "https://avatars.githubusercontent.com/u/2432299?s=40&v=4",
+                "username": "Amxx"
+            },
+            {
+                "href": "https://github.com/nventuro",
+                "avatar": "https://avatars.githubusercontent.com/u/2530770?s=40&v=4",
+                "username": "nventuro"
+            },
+            {
+                "href": "https://github.com/maraoz",
+                "avatar": "https://avatars.githubusercontent.com/u/287189?s=40&v=4",
+                "username": "maraoz"
+            },
+            {
+                "href": "https://github.com/ernestognw",
+                "avatar": "https://avatars.githubusercontent.com/u/33379285?s=40&v=4",
+                "username": "ernestognw"
+            }
+        ]
+    },
+    {
+        "author": "twbs",
+        "name": "bootstrap",
+        "avatar": "https://github.com/twbs.png",
+        "sponsor": "https://github.com/sponsors/twbs",
+        "url": "https://github.com/twbs/bootstrap",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 166513,
+        "fork": 79173,
+        "currentPeriodStars": 25,
+        "builtBy": [
+            {
+                "href": "https://github.com/mdo",
+                "avatar": "https://avatars.githubusercontent.com/u/98681?s=40&v=4",
+                "username": "mdo"
+            },
+            {
+                "href": "https://github.com/cvrebert",
+                "avatar": "https://avatars.githubusercontent.com/u/419884?s=40&v=4",
+                "username": "cvrebert"
+            },
+            {
+                "href": "https://github.com/XhmikosR",
+                "avatar": "https://avatars.githubusercontent.com/u/349621?s=40&v=4",
+                "username": "XhmikosR"
+            },
+            {
+                "href": "https://github.com/fat",
+                "avatar": "https://avatars.githubusercontent.com/u/169705?s=40&v=4",
+                "username": "fat"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "academicpages",
+        "name": "academicpages.github.io",
+        "avatar": "https://github.com/academicpages.png",
+        "sponsor": null,
+        "url": "https://github.com/academicpages/academicpages.github.io",
+        "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 9593,
+        "fork": 36416,
+        "currentPeriodStars": 12,
+        "builtBy": [
+            {
+                "href": "https://github.com/staeiou",
+                "avatar": "https://avatars.githubusercontent.com/u/4693439?s=40&v=4",
+                "username": "staeiou"
+            },
+            {
+                "href": "https://github.com/yimingzhaomath",
+                "avatar": "https://avatars.githubusercontent.com/u/13087183?s=40&v=4",
+                "username": "yimingzhaomath"
+            },
+            {
+                "href": "https://github.com/aki-nishimura",
+                "avatar": "https://avatars.githubusercontent.com/u/12732968?s=40&v=4",
+                "username": "aki-nishimura"
+            },
+            {
+                "href": "https://github.com/a-paxton",
+                "avatar": "https://avatars.githubusercontent.com/u/9792532?s=40&v=4",
+                "username": "a-paxton"
+            },
+            {
+                "href": "https://github.com/luismmontilla",
+                "avatar": "https://avatars.githubusercontent.com/u/13678780?s=40&v=4",
+                "username": "luismmontilla"
+            }
+        ]
+    },
+    {
+        "author": "bgstaal",
+        "name": "multipleWindow3dScene",
+        "avatar": "https://github.com/bgstaal.png",
+        "sponsor": null,
+        "url": "https://github.com/bgstaal/multipleWindow3dScene",
+        "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 14081,
+        "fork": 2428,
+        "currentPeriodStars": 39,
+        "builtBy": [
+            {
+                "href": "https://github.com/bgstaal",
+                "avatar": "https://avatars.githubusercontent.com/u/165258?s=40&v=4",
+                "username": "bgstaal"
+            },
+            {
+                "href": "https://github.com/younesbram",
+                "avatar": "https://avatars.githubusercontent.com/u/43382860?s=40&v=4",
+                "username": "younesbram"
+            }
+        ]
+    },
+    {
+        "author": "sudheerj",
+        "name": "reactjs-interview-questions",
+        "avatar": "https://github.com/sudheerj.png",
+        "sponsor": null,
+        "url": "https://github.com/sudheerj/reactjs-interview-questions",
+        "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 34320,
+        "fork": 8364,
+        "currentPeriodStars": 26,
+        "builtBy": [
+            {
+                "href": "https://github.com/sudheerj",
+                "avatar": "https://avatars.githubusercontent.com/u/3127317?s=40&v=4",
+                "username": "sudheerj"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/sakhidamaulik",
+                "avatar": "https://avatars.githubusercontent.com/u/53376115?s=40&v=4",
+                "username": "sakhidamaulik"
+            },
+            {
+                "href": "https://github.com/chenc041",
+                "avatar": "https://avatars.githubusercontent.com/u/16097887?s=40&v=4",
+                "username": "chenc041"
+            },
+            {
+                "href": "https://github.com/AliN11",
+                "avatar": "https://avatars.githubusercontent.com/u/16048964?s=40&v=4",
+                "username": "AliN11"
+            }
+        ]
+    },
+    {
+        "author": "max32002",
+        "name": "tixcraft_bot",
+        "avatar": "https://github.com/max32002.png",
+        "sponsor": null,
+        "url": "https://github.com/max32002/tixcraft_bot",
+        "description": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 1214,
+        "fork": 187,
+        "currentPeriodStars": 7,
+        "builtBy": [
+            {
+                "href": "https://github.com/max32002",
+                "avatar": "https://avatars.githubusercontent.com/u/4498233?s=40&v=4",
+                "username": "max32002"
+            },
+            {
+                "href": "https://github.com/hahamic",
+                "avatar": "https://avatars.githubusercontent.com/u/83109788?s=40&v=4",
+                "username": "hahamic"
+            },
+            {
+                "href": "https://github.com/lovefirst02",
+                "avatar": "https://avatars.githubusercontent.com/u/38812009?s=40&v=4",
+                "username": "lovefirst02"
+            },
+            {
+                "href": "https://github.com/LeoLiu1209",
+                "avatar": "https://avatars.githubusercontent.com/u/15647660?s=40&v=4",
+                "username": "LeoLiu1209"
+            },
+            {
+                "href": "https://github.com/chuanxd",
+                "avatar": "https://avatars.githubusercontent.com/u/4191668?s=40&v=4",
+                "username": "chuanxd"
+            }
+        ]
+    },
+    {
+        "author": "CesiumGS",
+        "name": "cesium",
+        "avatar": "https://github.com/CesiumGS.png",
+        "sponsor": null,
+        "url": "https://github.com/CesiumGS/cesium",
+        "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 11450,
+        "fork": 3340,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/bagnell",
+                "avatar": "https://avatars.githubusercontent.com/u/1494815?s=40&v=4",
+                "username": "bagnell"
+            },
+            {
+                "href": "https://github.com/pjcozzi",
+                "avatar": "https://avatars.githubusercontent.com/u/782098?s=40&v=4",
+                "username": "pjcozzi"
+            },
+            {
+                "href": "https://github.com/mramato",
+                "avatar": "https://avatars.githubusercontent.com/u/1495196?s=40&v=4",
+                "username": "mramato"
+            },
+            {
+                "href": "https://github.com/lilleyse",
+                "avatar": "https://avatars.githubusercontent.com/u/915398?s=40&v=4",
+                "username": "lilleyse"
+            },
+            {
+                "href": "https://github.com/kring",
+                "avatar": "https://avatars.githubusercontent.com/u/924374?s=40&v=4",
+                "username": "kring"
+            }
+        ]
+    },
+    {
+        "author": "bvaughn",
+        "name": "react-window",
+        "avatar": "https://github.com/bvaughn.png",
+        "sponsor": "https://github.com/sponsors/bvaughn",
+        "url": "https://github.com/bvaughn/react-window",
+        "description": "React components for efficiently rendering large lists and tabular data",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 14968,
+        "fork": 789,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/bvaughn",
+                "avatar": "https://avatars.githubusercontent.com/u/29597?s=40&v=4",
+                "username": "bvaughn"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/dkunzman77",
+                "avatar": "https://avatars.githubusercontent.com/u/30955579?s=40&v=4",
+                "username": "dkunzman77"
+            },
+            {
+                "href": "https://github.com/jgoz",
+                "avatar": "https://avatars.githubusercontent.com/u/132233?s=40&v=4",
+                "username": "jgoz"
+            },
+            {
+                "href": "https://github.com/nihgwu",
+                "avatar": "https://avatars.githubusercontent.com/u/2595058?s=40&v=4",
+                "username": "nihgwu"
+            }
+        ]
+    },
+    {
+        "author": "SchemaStore",
+        "name": "schemastore",
+        "avatar": "https://github.com/SchemaStore.png",
+        "sponsor": null,
+        "url": "https://github.com/SchemaStore/schemastore",
+        "description": "A collection of JSON schema files including full API",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 2684,
+        "fork": 1514,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/madskristensen",
+                "avatar": "https://avatars.githubusercontent.com/u/1258877?s=40&v=4",
+                "username": "madskristensen"
+            },
+            {
+                "href": "https://github.com/apps/pre-commit-ci",
+                "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+                "username": "apps/pre-commit-ci"
+            },
+            {
+                "href": "https://github.com/GerryFerdinandus",
+                "avatar": "https://avatars.githubusercontent.com/u/6232089?s=40&v=4",
+                "username": "GerryFerdinandus"
+            },
+            {
+                "href": "https://github.com/hyperupcall",
+                "avatar": "https://avatars.githubusercontent.com/u/24364012?s=40&v=4",
+                "username": "hyperupcall"
+            },
+            {
+                "href": "https://github.com/EmilyGraceSeville7cf",
+                "avatar": "https://avatars.githubusercontent.com/u/42812113?s=40&v=4",
+                "username": "EmilyGraceSeville7cf"
+            }
+        ]
+    },
+    {
+        "author": "module-federation",
+        "name": "module-federation-examples",
+        "avatar": "https://github.com/module-federation.png",
+        "sponsor": null,
+        "url": "https://github.com/module-federation/module-federation-examples",
+        "description": "Implementation examples of module federation , by the creators of module federation",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 4956,
+        "fork": 1607,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/ScriptedAlchemy",
+                "avatar": "https://avatars.githubusercontent.com/u/25274700?s=40&v=4",
+                "username": "ScriptedAlchemy"
+            },
+            {
+                "href": "https://github.com/renovate-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+                "username": "renovate-bot"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/PeaceDate",
+                "avatar": "https://avatars.githubusercontent.com/u/55971575?s=40&v=4",
+                "username": "PeaceDate"
+            }
+        ]
+    },
+    {
+        "author": "docmirror",
+        "name": "dev-sidecar",
+        "avatar": "https://github.com/docmirror.png",
+        "sponsor": null,
+        "url": "https://github.com/docmirror/dev-sidecar",
+        "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 13757,
+        "fork": 1682,
+        "currentPeriodStars": 13,
+        "builtBy": [
+            {
+                "href": "https://github.com/greper",
+                "avatar": "https://avatars.githubusercontent.com/u/1687298?s=40&v=4",
+                "username": "greper"
+            },
+            {
+                "href": "https://github.com/Enaium",
+                "avatar": "https://avatars.githubusercontent.com/u/32991121?s=40&v=4",
+                "username": "Enaium"
+            },
+            {
+                "href": "https://github.com/KevinZonda",
+                "avatar": "https://avatars.githubusercontent.com/u/33132228?s=40&v=4",
+                "username": "KevinZonda"
+            }
+        ]
+    },
+    {
+        "author": "mrdoob",
+        "name": "three.js",
+        "avatar": "https://github.com/mrdoob.png",
+        "sponsor": "https://github.com/sponsors/mrdoob",
+        "url": "https://github.com/mrdoob/three.js",
+        "description": "JavaScript 3D Library.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 96995,
+        "fork": 35338,
+        "currentPeriodStars": 24,
+        "builtBy": [
+            {
+                "href": "https://github.com/mrdoob",
+                "avatar": "https://avatars.githubusercontent.com/u/97088?s=40&v=4",
+                "username": "mrdoob"
+            },
+            {
+                "href": "https://github.com/Mugen87",
+                "avatar": "https://avatars.githubusercontent.com/u/12612165?s=40&v=4",
+                "username": "Mugen87"
+            },
+            {
+                "href": "https://github.com/alteredq",
+                "avatar": "https://avatars.githubusercontent.com/u/438022?s=40&v=4",
+                "username": "alteredq"
+            },
+            {
+                "href": "https://github.com/WestLangley",
+                "avatar": "https://avatars.githubusercontent.com/u/1000017?s=40&v=4",
+                "username": "WestLangley"
+            },
+            {
+                "href": "https://github.com/sunag",
+                "avatar": "https://avatars.githubusercontent.com/u/502810?s=40&v=4",
+                "username": "sunag"
+            }
+        ]
+    },
+    {
+        "author": "Sharkgrammer",
+        "name": "clockface.json",
+        "avatar": "https://github.com/Sharkgrammer.png",
+        "sponsor": null,
+        "url": "https://github.com/Sharkgrammer/clockface.json",
+        "description": "VSCode inspired watch face for Sense and Versa 3",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 83,
+        "fork": 11,
+        "currentPeriodStars": 20,
+        "builtBy": [
+            {
+                "href": "https://github.com/Sharkgrammer",
+                "avatar": "https://avatars.githubusercontent.com/u/25661076?s=40&v=4",
+                "username": "Sharkgrammer"
+            }
+        ]
+    },
+    {
+        "author": "hiteshchoudhary",
+        "name": "chai-aur-react",
+        "avatar": "https://github.com/hiteshchoudhary.png",
+        "sponsor": null,
+        "url": "https://github.com/hiteshchoudhary/chai-aur-react",
+        "description": "chai aur react series on youtube",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 2741,
+        "fork": 383,
+        "currentPeriodStars": 26,
+        "builtBy": [
+            {
+                "href": "https://github.com/hiteshchoudhary",
+                "avatar": "https://avatars.githubusercontent.com/u/11613311?s=40&v=4",
+                "username": "hiteshchoudhary"
+            }
+        ]
+    },
+    {
+        "author": "usebruno",
+        "name": "bruno",
+        "avatar": "https://github.com/usebruno.png",
+        "sponsor": null,
+        "url": "https://github.com/usebruno/bruno",
+        "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 11148,
+        "fork": 469,
+        "currentPeriodStars": 49,
+        "builtBy": [
+            {
+                "href": "https://github.com/helloanoop",
+                "avatar": "https://avatars.githubusercontent.com/u/9350733?s=40&v=4",
+                "username": "helloanoop"
+            },
+            {
+                "href": "https://github.com/Its-treason",
+                "avatar": "https://avatars.githubusercontent.com/u/39559178?s=40&v=4",
+                "username": "Its-treason"
+            },
+            {
+                "href": "https://github.com/survivant",
+                "avatar": "https://avatars.githubusercontent.com/u/191879?s=40&v=4",
+                "username": "survivant"
+            },
+            {
+                "href": "https://github.com/DogukanUrker",
+                "avatar": "https://avatars.githubusercontent.com/u/62756402?s=40&v=4",
+                "username": "DogukanUrker"
+            },
+            {
+                "href": "https://github.com/jsoref",
+                "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&v=4",
+                "username": "jsoref"
+            }
+        ]
+    }
+]
